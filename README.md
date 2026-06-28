@@ -89,7 +89,10 @@ The project generates:
 
 ## 📷 Screenshots
 
+<img width="192" height="533" alt="Screenshot 2026-06-28 102412" src="https://github.com/user-attachments/assets/0dd320fb-6f6d-49b6-b299-7f70846175e3" />
 <img width="1901" height="902" alt="Screenshot 2026-06-28 102244" src="https://github.com/user-attachments/assets/64960cea-8ec7-4d04-aff6-260639ad05ce" />
+<img width="1896" height="901" alt="Screenshot 2026-06-28 102316" src="https://github.com/user-attachments/assets/276d3411-8752-4de6-ba06-800b293f523a" />
+<img width="1863" height="905" alt="Screenshot 2026-06-28 102345" src="https://github.com/user-attachments/assets/bb1890de-339e-4cb0-bd44-f0bfb6d52921" />
 
 
 ---
